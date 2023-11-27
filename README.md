@@ -3,3 +3,6 @@
 ## Shopping list
 - milk
 - bread
+- potato
+- Tea
+-sweets
