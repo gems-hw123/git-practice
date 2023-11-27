@@ -3,3 +3,4 @@
 ## Shopping list
 - milk
 - bread
+- potato
