@@ -4,3 +4,5 @@
 - milk
 - bread
 - potato
+- Tea
+-sweets
